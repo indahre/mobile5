@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapSearch</string>
+    <string name="map_key" translatable="false">AIzaSyD-YgcyfRJ8r0GLrnLOQULsl3LEmAHWOqQ</string>
+</resources>
